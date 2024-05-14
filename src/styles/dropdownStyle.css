@@ -1,0 +1,46 @@
+/* .center-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+} */
+
+.dropdown-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.dropdown{
+    width: 200px;
+    padding: 10px;
+    margin-left: 20px;
+    /* margin-bottom: 20px; */
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+
+.sub-services-container{
+    /* align-items: center; */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+buttons{
+    background-color: #e0e0e0;
+    padding: 10px;
+    margin-bottom: 5px;
+    cursor: move;
+}
+
+h1{
+    margin-left: 20px;
+}
